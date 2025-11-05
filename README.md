@@ -16,7 +16,7 @@ I'm a **Computer Science student** at **The University of Texas at Austin** (Exp
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Python, C/C\#, JavaScript, SQL, HTML |
+| **Languages** | Java, Python, C/C\#, JavaScript, SQL, HTML, CSS |
 | **Frameworks & Libraries** | PyTorch, Django, React, Node, Next.js, Pandas |
 | **Developer Tools** | Git, AWS, REST APIs, Docker, CI/CD |
 
