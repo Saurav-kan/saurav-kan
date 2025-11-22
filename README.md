@@ -56,4 +56,4 @@ I'm a **Computer Science student** at **The University of Texas at Austin** (Exp
 ## 📫 How to Connect
 
 * **[LinkedIn](https://www.linkedin.com/in/saurav-kan/)**
-* **Email:** sauravk0633@gmail.com
+* **Email:**  sauravk0633@gmail.com
