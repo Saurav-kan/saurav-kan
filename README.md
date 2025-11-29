@@ -10,9 +10,9 @@ I'm a **Computer Science student** at **The University of Texas at Austin** (Exp
     * Using **React Native**, **Supabase**, and **FastAPI** to help users manage ADHD symptoms.
     * Contributing to the design of an adaptive AI core with the **Google Gemini API** that learns user behaviors to provide personalized scheduling and task-management interventions.
       
- * **[AlgoMeter](https://github.com/saurav-kan)**:  Developing a Chrome Extension that serves as an intelligent coding interview companion for the LeetCode platform.
-    * Utilizing **WXT (Chrome Extension Framework)**, **React**, and **TypeScript** to build a responsive, injected UI with Glassmorphism styling.
-    * Focusing on building the frontend logic to display skill-adjusted hints and personalized problem recommendations driven by a dedicated, planned backend API for optimal interview preparation.
+ * **[Cognify - An AI powered Study Assistant](https://github.com/Saurav-kan/Cognify)**:  Developing an accessibility-first application that converts complex educational content into neuro-friendly formats.
+      *Built with Next.js 14, TypeScript, and Tailwind CSS to deliver features like bionic reading and gamified chunking.
+      *Engineered a custom Multi-Provider AI Mesh (utilizing Groq, SiliconFlow, and Google Gemini) that intelligently routes prompts based on complexity to maximize free-tier throughput.
 
 ---
 
