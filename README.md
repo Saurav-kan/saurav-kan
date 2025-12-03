@@ -1,6 +1,6 @@
 # Hi, I'm Saurav 👋
 
-I'm a **Computer Science student** at **The University of Texas at Austin** (Expected May 2027). I'm passionate about building **full-stack applications** and **AI-powered tools** that solve real-world problems. CUrrently working at Carpaal on frontend Design.
+I'm a **Computer Science student** at **The University of Texas at Austin** (Expected May 2027). I'm passionate about building **full-stack applications** and **AI-powered tools** that solve real-world problems. Currently working at Carpaal on frontend Design.
 
 ---
 
