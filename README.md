@@ -6,9 +6,9 @@ I'm a **Computer Science student** at **The University of Texas at Austin** (Exp
 
 ## 🔭 What I'm Currently Working On
 
-* **[Remi-AI - ADHD Management App](https://github.com/saurav-kan)**: Collaborating in a team under the guidance of Shah Ventures to develop a full-stack, AI-powered mobile application. 
-    * Using **React Native**, **Supabase**, and **FastAPI** to help users manage ADHD symptoms.
-    * Contributing to the design of an adaptive AI core with the **Google Gemini API** that learns user behaviors to provide personalized scheduling and task-management interventions.
+* **[Gist- a Natural Languge File Exploerer](https://github.com/saurav-kan)**: Building a NLP file exploerer using embeedings to search for files with discriptions instead of filename
+    * Using **Rust**, **Electron**, and **Ollama** to create a priavte AI powered sematic search engine.
+    * Allows for file exploerer features like previewing and opening files, adding and delting files, and asking file speific questions to locally run AI
       
  * **[Cognify - An AI powered Study Assistant](https://github.com/Saurav-kan/Cognify)**: Developing an accessibility-first application that converts complex educational content into neuro-friendly formats.
     * Built with Next.js 14, TypeScript, and Tailwind CSS to deliver features like bionic reading and gamified chunking.
