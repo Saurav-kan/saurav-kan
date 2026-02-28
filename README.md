@@ -6,7 +6,7 @@ I'm a **Computer Science student** at **The University of Texas at Austin** (Exp
 
 ## 🔭 What I'm Currently Working On
 
-* **[Gist- a Natural Languge File Exploerer](https://github.com/saurav-kan)**: Building a NLP file exploerer using embeedings to search for files with discriptions instead of filename
+* **[Gist- a Natural Languge File Exploerer](https://github.com/saurav-kan/Gist)**: Building a NLP file exploerer using embeedings to search for files with discriptions instead of filename
     * Using **Rust**, **Electron**, and **Ollama** to create a priavte AI powered sematic search engine.
     * Allows for file exploerer features like previewing and opening files, adding and delting files, and asking file speific questions to locally run AI
       
